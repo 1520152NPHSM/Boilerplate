@@ -57,7 +57,7 @@
 			"before": true,
 			"after": true
 		}],
-		"linebreak-style": [ "error", "windows" ],
+		"linebreak-style": [ "error", "unix" ],
 		"lines-around-comment": [ "error", {
 			"beforeBlockComment": true,
 			"afterBlockComment": true,
